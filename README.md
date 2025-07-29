@@ -1,27 +1,4 @@
-Skip to content
-Navigation Menu
-Areeba473
-hotel_booking_system
 
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-hotel_booking_system
-/
-README.md
-in
-main
-
-Edit
-
-Preview
 Hotel Booking System
 
 A Java-based application for managing hotel room bookings, integrated with a MySQL database to perform CRUD operations.
