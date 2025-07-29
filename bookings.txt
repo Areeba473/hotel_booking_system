@@ -1,0 +1,4 @@
+Room 1 - meeno - $120.0
+Room 2 - areeba - $140.0
+Room 3 - umer - $160.0
+Room 4 - arish - $180.0
